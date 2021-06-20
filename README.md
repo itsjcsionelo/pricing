@@ -21,5 +21,5 @@
  </tr>
 </table>
 
-#### Preview: [Better Todo](https://bettertodo.netlify.app/)
+#### Preview: [BetterTodo](https://bettertodo.netlify.app/)
 
