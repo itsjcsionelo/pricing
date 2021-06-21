@@ -19,6 +19,9 @@
     <td>✔ Grid</td>
     <td>✔ Flexbox</td>
  </tr>
+ <tr>
+    <th colspan="2">🚫 Optimized for Mobile</th>
+ </tr>
 </table>
 
 #### Preview: [ToDo](https://bettertodo.netlify.app/)
